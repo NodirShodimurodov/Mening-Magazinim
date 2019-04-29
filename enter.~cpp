@@ -120,4 +120,9 @@ void __fastcall TForm2::DBLookupComboBox1Click(TObject *Sender)
 
 }
 //---------------------------------------------------------------------------
-
+//sEdit3->Text=ADOQuery1->FieldByName("Nomi")->AsString;(text)
+//sEdit4->Text=ADOQuery1->FieldByName("Narxi")->AsString;(text)
+//sEdit6->Text=ADOQuery1->FieldByName("Zaxirada")->AsString;(text)
+//sEdit7->Text=ADOQuery1->FieldByName("Izox")->AsString;
+//sEdit5->Text=sEdit2->Text;(text)
+//sEdit9->Text=ADOQuery1->FieldByName("Hajmi")->AsString;(text)
